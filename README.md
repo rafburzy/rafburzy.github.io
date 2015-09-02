@@ -1,2 +1,2 @@
 # rafburzy.github.io
-My fist Github page
+Hub for my open source projects
