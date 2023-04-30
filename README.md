@@ -1,20 +1,4 @@
 # rafburzy.github.io
 Hub for my open source projects
 
-
-Try HTML code
-
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
+This is the repo for my website hosted on Github. You will find here the list of my projects using SQL, R and Python. So please go ahead and [click here](https://rafburzy.github.io) to see more details.
